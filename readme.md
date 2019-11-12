@@ -1,0 +1,1 @@
+- following this tutorial for setting up the webpack4 and react alone with this project: https://www.freecodecamp.org/news/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75/
